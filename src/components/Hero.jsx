@@ -5,7 +5,7 @@ import { useState, useEffect } from "react";
 
 const Hero = () => {
   const [videoSrc, setVideoSrc] = useState(
-    window.innerWidth > 760 ? smallHeroVideo : heroVideo
+    window.innerWidth < 760 ? smallHeroVideo : heroVideo
   );
 
   const handleVideoSrcSet = () => {
@@ -22,7 +22,7 @@ const Hero = () => {
     return () => {
       window.addEventListener("resize", handleVideoSrcSet);
     };
-  });
+  }, []);
 
   useGSAP(() => {
     gsap.to("#hero", { opacity: 1, delay: 2 });
