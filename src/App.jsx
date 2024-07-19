@@ -5,6 +5,7 @@ import Model from "./components/Model";
 import Features from "./components/Features";
 import VideoCarousel from "./components/VideoCarousel";
 import Footer from "./components/Footer";
+import HowItWorks from "./components/HowItWorks";
 
 const App = () => {
   return (
@@ -14,7 +15,9 @@ const App = () => {
       <Highlights />
 
       {/* <Model /> */}
-      {/* <Features /> */}
+      <Features />
+      <HowItWorks />
+
       <Footer />
     </main>
   );
