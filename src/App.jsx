@@ -4,6 +4,7 @@ import Highlights from "./components/Highlights";
 import Model from "./components/Model";
 import Features from "./components/Features";
 import VideoCarousel from "./components/VideoCarousel";
+import Footer from "./components/Footer";
 
 const App = () => {
   return (
@@ -11,9 +12,10 @@ const App = () => {
       <Navbar />
       <Hero />
       <Highlights />
-      <VideoCarousel />
+
       {/* <Model /> */}
       {/* <Features /> */}
+      <Footer />
     </main>
   );
 };
