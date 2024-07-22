@@ -79,7 +79,7 @@
 
 ## About The Project :: [Check it out 🚀](https://apple-3d-website-pepw.onrender.com)
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=AA7tvvFX2YQ?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+https://github.com/user-attachments/assets/4a3e1e79-554e-4285-961d-4b97dbf46b9c
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
