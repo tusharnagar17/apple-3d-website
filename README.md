@@ -79,10 +79,7 @@
 
 ## About The Project :: [Check it out 🚀](https://apple-3d-website-pepw.onrender.com)
 
-<video width="320" height="240" autoplay loop muted>
-  <source src="/public/apple-3d-video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=AA7tvvFX2YQ?autoplay=1" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
